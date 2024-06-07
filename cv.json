@@ -1,66 +1,51 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Ramiro Tepehua Cortés",
+    "label": "Full Stack Developer con más de 13 años de experiencia",
+    "image": "/rtc3.png",
+    "email": "tep_ramiro@hotmail.com",
+    "phone": "+52 2461421835",
+    "url": "https://www.devcool.xyz/",
+    "summary": "+13 años de experiencia como Desarrollador Web. Actualmente estoy como analista de desarrollo en una dependencia de gobierno de nombre SESAET. Vivo en Tlaxcala, México. He trabajado en diferentes entornos: desde ser analista de desarrollo hasta liderando un equipo de programadores en un call center. Una de mis principales características es que me adapto al cambio, me gusta aprender cosas nuevas y sé trabajar en equipo.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "90030",
+      "city": "Tlaxcala",
       "countryCode": "ES",
-      "region": "España"
+      "region": "México"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
-      },
+        "username": "rtcface",
+        "url": "https://www.linkedin.com/in/ramiro-tepehua-056ab4176"
+      },      
       {
         "network": "GitHub",
         "username": "midudev",
-        "url": "https://github.com/midudev"
+        "url": "https://github.com/rtcface"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "SESAET",
+      "position": "Analista de desarrollo",
+      "url": "https://saetlax.org/",
+      "startDate": "2020-12-15",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Se implementó la plataforma digital estatal, esta plataforma está interconectada a nivel nacional con la PDN, en esta plataforma los servidores públicos del estado realizan su declaración patrimonial. Las tecnologías usadas fueron Spring Boot con Maven, PostgreSql, Vanilla js, Apache Tomcat, Desarrollo de Micrositios OIC, una plataforma administrable en donde los entes públicos del estado de Tlaxcala registra información de carácter público sobre su código de ética y datos de contacto, las tecnologias usadas fueron Angular, Nest, MongoDB, Docker, GraphQL.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Amatech S.A. de C.V.",
+      "position": "Analista de desarrollo y líder de equipo",
+      "url": "https://www.amatech.com.mx/",
+      "startDate": "2011-03-07",
+      "endDate": "2020-12-30",
+      "summary": "En mi primera etapa como de analista de desarrollo estuve al frente de diversos proyectos, entre ellos trabajando para una empresa automotriz en un crm de nombre claimeservice las tecnologías que usábamos eran c# .NET, Sql Server, Boostrap, CSS, HTML, se migró el sistema de gestón de correos de empresa automotriz, se desarrolló una app mobile para empresa de construcción usando android studio, web service con c# .NET, se colaboró en desarrollo de un gestor de correos. Además de resolver problemas de código legacy en asp. En la etapa como líder, a su vez de gestionar los proyectos del equipo, tambien se administraban los permisos de bases de datos, el mantenimiento a la base de datos, ademas de buscar automatizar la gestión de los sistemas, se administraban los servidores de producción y desarrollo, también se administraba la Intranet.",
       "highlights": [
         "Started the company"
       ]
@@ -78,13 +63,13 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
+    "institution": "Tecnológico Nacional de México campus San Martín Texmelucan",
     "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "area": "Ingeniería en Sistemas Computacionales",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "startDate": "2007-06-01",
+    "endDate": "2011/11/11",
+    "score": "8.0",
     "courses": [
       "DB1101 - Basic SQL"
     ]
@@ -210,35 +195,40 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Micrositios SESAET",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Una plataforma administrable en donde los entes públicos del estado de Tlaxcala registra información de carácter público sobre su código de ética y datos de contacto",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Angular Js",
+        "Nest Js",
+        "MongoDB",
+        "Docker",
+        "GraphQL"
+
       ],
-      "url": "https://mars.codes"
+      "url": "https://oic.saetlax.org/"
     },
     {
-      "name": "AdventJS",
+      "name": "Plataforma Digital Estatal",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Registro de declaraciones patrimoniales de los servidores públicos del estado de Tlaxcala",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Spring Boot con Maven",
+        "JavaScript",
+        "PostgreSql",
+        "Apache Tomcat"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://pde.saetlax.org/"
     },
     {
-      "name": "Codember",
+      "name": "Gestor de correos ",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Esta aplicación fue desarrollada para Amatech S.A. de C.V. y es privada. ",
       "highlights": [
         "+2000 usuarios activos",
         "Retos para cualquier lenguaje"
       ],
-      "url": "https://codember.dev"
+      "url": "https://www.amatech.com.mx/"
     },
     {
       "name": "codi.link",
@@ -261,15 +251,6 @@
       ],
       "url": "https://pruebastecnicas.com",
       "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
     }
   ]
 }
