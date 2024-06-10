@@ -1,256 +1,343 @@
 {
-  "basics": {
-    "name": "Ramiro Tepehua Cortés",
-    "label": "Full Stack Developer con más de 13 años de experiencia",
-    "image": "/rtc3.png",
-    "email": "tep_ramiro@hotmail.com",
-    "phone": "+52 2461421835",
-    "url": "https://www.devcool.xyz/",
-    "summary": "+13 años de experiencia como Desarrollador Web. Actualmente estoy como analista de desarrollo en una dependencia de gobierno de nombre SESAET. Vivo en Tlaxcala, México. He trabajado en diferentes entornos: desde ser analista de desarrollo hasta liderando un equipo de programadores en un call center. Una de mis principales características es que me adapto al cambio, me gusta aprender cosas nuevas y sé trabajar en equipo.",
-    "location": {
-      "address": "",
-      "postalCode": "90030",
-      "city": "Tlaxcala",
-      "countryCode": "ES",
-      "region": "México"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "rtcface",
-        "url": "https://www.linkedin.com/in/ramiro-tepehua-056ab4176"
-      },      
-      {
-        "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/rtcface"
-      }
-    ]
-  },
-  "work": [
-    {
-      "name": "SESAET",
-      "position": "Analista de desarrollo",
-      "url": "https://saetlax.org/",
-      "startDate": "2020-12-15",
-      "endDate": null,
-      "summary": "Se implementó la plataforma digital estatal, esta plataforma está interconectada a nivel nacional con la PDN, en esta plataforma los servidores públicos del estado realizan su declaración patrimonial. Las tecnologías usadas fueron Spring Boot con Maven, PostgreSql, Vanilla js, Apache Tomcat, Desarrollo de Micrositios OIC, una plataforma administrable en donde los entes públicos del estado de Tlaxcala registra información de carácter público sobre su código de ética y datos de contacto, las tecnologias usadas fueron Angular, Nest, MongoDB, Docker, GraphQL.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Amatech S.A. de C.V.",
-      "position": "Analista de desarrollo y líder de equipo",
-      "url": "https://www.amatech.com.mx/",
-      "startDate": "2011-03-07",
-      "endDate": "2020-12-30",
-      "summary": "En mi primera etapa como de analista de desarrollo estuve al frente de diversos proyectos, entre ellos trabajando para una empresa automotriz en un crm de nombre claimeservice las tecnologías que usábamos eran c# .NET, Sql Server, Boostrap, CSS, HTML, se migró el sistema de gestón de correos de empresa automotriz, se desarrolló una app mobile para empresa de construcción usando android studio, web service con c# .NET, se colaboró en desarrollo de un gestor de correos. Además de resolver problemas de código legacy en asp. En la etapa como líder, a su vez de gestionar los proyectos del equipo, tambien se administraban los permisos de bases de datos, el mantenimiento a la base de datos, ademas de buscar automatizar la gestión de los sistemas, se administraban los servidores de producción y desarrollo, también se administraba la Intranet.",
-      "highlights": [
-        "Started the company"
-      ]
-    }
-  ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Tecnológico Nacional de México campus San Martín Texmelucan",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniería en Sistemas Computacionales",
-    "studyType": "Bachelor",
-    "startDate": "2007-06-01",
-    "endDate": "2011/11/11",
-    "score": "8.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
-  "skills": [
-    {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced"
-    }
-  ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
-  "projects": [
-    {
-      "name": "Micrositios SESAET",
-      "isActive": true,
-      "description": "Una plataforma administrable en donde los entes públicos del estado de Tlaxcala registra información de carácter público sobre su código de ética y datos de contacto",
-      "highlights": [
-        "Angular Js",
-        "Nest Js",
-        "MongoDB",
-        "Docker",
-        "GraphQL"
-
-      ],
-      "url": "https://oic.saetlax.org/"
-    },
-    {
-      "name": "Plataforma Digital Estatal",
-      "isActive": true,
-      "description": "Registro de declaraciones patrimoniales de los servidores públicos del estado de Tlaxcala",
-      "highlights": [
-        "Spring Boot con Maven",
-        "JavaScript",
-        "PostgreSql",
-        "Apache Tomcat"
-      ],
-      "url": "https://pde.saetlax.org/"
-    },
-    {
-      "name": "Gestor de correos ",
-      "isActive": true,
-      "description": "Esta aplicación fue desarrollada para Amatech S.A. de C.V. y es privada. ",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://www.amatech.com.mx/"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    }
-  ]
+	"basics": {
+		"name": "Ramiro Tepehua Cortés",
+		"label": "Full Stack Developer con más de 13 años de experiencia",
+		"image": "/rtc3.png",
+		"email": "tep_ramiro@hotmail.com",
+		"phone": "+52 2461421835",
+		"url": "https://www.devcool.xyz/",
+		"summary": "+13 años de experiencia como Desarrollador Web. Actualmente estoy como analista de desarrollo en una dependencia de gobierno de nombre SESAET. Vivo en Tlaxcala, México. He trabajado en diferentes entornos: desde ser analista de desarrollo hasta liderando un equipo de programadores en un call center. Una de mis principales características es que me adapto al cambio, me gusta aprender cosas nuevas y sé trabajar en equipo.",
+		"location": {
+			"address": "",
+			"postalCode": "90030",
+			"city": "Tlaxcala",
+			"countryCode": "ES",
+			"region": "México"
+		},
+		"profiles": [
+			{
+				"network": "LinkedIn",
+				"username": "rtcface",
+				"url": "https://www.linkedin.com/in/ramiro-tepehua"
+			},
+			{
+				"network": "GitHub",
+				"username": "midudev",
+				"url": "https://github.com/rtcface"
+			}
+		]
+	},
+	"work": [
+		{
+			"name": "SESAET",
+			"position": "Analista de desarrollo",
+			"url": "https://saetlax.org/",
+			"startDate": "2020-12-15",
+			"endDate": null,
+			"summary": "Se implementó la plataforma digital estatal, esta plataforma está interconectada a nivel nacional con la PDN, en esta plataforma los servidores públicos del estado realizan su declaración patrimonial. Las tecnologías usadas fueron Spring Boot con Maven, PostgreSql, Vanilla js, Apache Tomcat, Desarrollo de Micrositios OIC, una plataforma administrable en donde los entes públicos del estado de Tlaxcala registran información de carácter público sobre su código de ética y datos de contacto, las tecnologías usadas fueron Angular, Nest, MongoDB, Docker, GraphQL.",
+			"highlights": [
+				"Started the company"
+			]
+		},
+		{
+			"name": "Amatech S.A. de C.V.",
+			"position": "Analista de desarrollo y líder de equipo",
+			"url": "https://www.amatech.com.mx/",
+			"startDate": "2011-03-07",
+			"endDate": "2020-12-30",
+			"summary": "En mi primera etapa como de analista de desarrollo estuve al frente de diversos proyectos, entre ellos trabajando para una empresa automotriz en un crm de nombre claimeservice las tecnologías que usábamos eran c# .NET, Sql Server, Boostrap, CSS, HTML, se migró el sistema de gestión de correos de empresa automotriz, se desarrolló una app mobile para empresa de construcción usando android studio, web service con c# .NET, se colaboró en desarrollo de un gestor de correos. Además de resolver problemas de código legacy en asp. En la etapa como líder, a su vez de gestionar los proyectos del equipo, también se administraban los permisos de bases de datos, el mantenimiento a la base de datos, además de buscar automatizar la gestión de los sistemas, se administraban los servidores de producción y desarrollo, también se administraba la Intranet.",
+			"highlights": [
+				"Started the company"
+			]
+		}
+	],
+	"volunteer": [
+		{
+			"organization": "Organization",
+			"position": "Volunteer",
+			"url": "https://organization.com/",
+			"startDate": "2012-01-01",
+			"endDate": "2013-01-01",
+			"summary": "Description…",
+			"highlights": [
+				"Awarded 'Volunteer of the Month'"
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "Tecnológico Nacional de México campus San Martín Texmelucan",
+			"url": "https://www.uoc.edu/portal/es/index.html",
+			"area": "Ingeniería en Sistemas Computacionales",
+			"studyType": "Bachelor",
+			"startDate": "2007-06-01",
+			"endDate": "2011/11/11",
+			"score": "8.0",
+			"courses": [
+				"DB1101 - Basic SQL"
+			]
+		}
+	],
+	"awards": [
+		{
+			"title": "Award",
+			"date": "2014-11-01",
+			"awarder": "Company",
+			"summary": "There is no spoon."
+		}
+	],
+	"certificates": [
+		{
+			"name": "Certificate",
+			"date": "2021-11-07",
+			"issuer": "Company",
+			"url": "https://certificate.com"
+		}
+	],
+	"publications": [
+		{
+			"name": "Publication",
+			"publisher": "Company",
+			"releaseDate": "2014-10-01",
+			"url": "https://publication.com",
+			"summary": "Description…"
+		}
+	],
+	"skills": [
+		{
+			"name": "HTML",
+			"level": "Master",
+			"keywords": [
+				"Desarrollo Web",
+				"Frontend"
+			]
+		},
+		{
+			"name": "CSS",
+			"level": "Master",
+			"keywords": [
+				"Desarrollo Web",
+				"Frontend",
+				"Diseño Responsive"
+			]
+		},
+		{
+			"name": "JavaScript",
+			"level": "Master",
+			"keywords": [
+				"Desarrollo Web",
+				"Frontend",
+				"Backend",
+				"Fullstack"
+			]
+		},
+		{
+			"name": "Tailwind",
+			"level": "Avanzado",
+			"keywords": [
+				"Desarrollo Web",
+				"Frontend",
+				"CSS Framework",
+				"Diseño Responsive"
+			]
+		},
+		{
+			"name": "TypeScript",
+			"level": "Avanzado",
+			"keywords": [
+				"Desarrollo Web",
+				"Frontend",
+				"Backend",
+				"JavaScript Superset"
+			]
+		},
+		{
+			"name": "Node",
+			"level": "Avanzado",
+			"keywords": [
+				"Desarrollo Web",
+				"Backend",
+				"JavaScript",
+				"Servidor"
+			]
+		},
+		{
+			"name": "Nest",
+			"level": "Avanzado",
+			"keywords": [
+				"Desarrollo Web",
+				"Backend",
+				"JavaScript",
+				"Servidor"
+			]
+		},
+		{
+			"name": "Angular",
+			"level": "Avanzado",
+			"keywords": [
+				"Desarrollo Web",
+				"Frontend",
+				"JavaScript"
+			]
+		},
+		{
+			"name": "MySQL",
+			"level": "Avanzado",
+			"keywords": [
+				"Bases de Datos",
+				"SQL",
+				"Almacenamiento de Datos",
+				"Backend"
+			]
+		},
+		{
+			"name": "SqlServer",
+			"level": "Avanzado",
+			"keywords": [
+				"Bases de Datos",
+				"SQL",
+				"Almacenamiento de Datos",
+				"Backend"
+			]
+		},
+		{
+			"name": "MongoDB",
+			"level": "Avanzado",
+			"keywords": [
+				"Bases de Datos",
+				"SQL",
+				"Almacenamiento de Datos",
+				"Backend"
+			]
+		},
+		{
+			"name": "Git",
+			"level": "Avanzado",
+			"keywords": [
+				"Control de Versiones",
+				"Colaboración",
+				"Código Fuente"
+			]
+		},
+		{
+			"name": "GitHub",
+			"level": "Avanzado",
+			"keywords": [
+				"Control de Versiones",
+				"Colaboración",
+				"Código Fuente",
+				"Git"
+			]
+		},
+		{
+			"name": "Next.js",
+			"level": "Avanzado",
+			"keywords": [
+				"Desarrollo Web",
+				"Frontend",
+				"React Framework",
+				"SSR",
+				"Static Generation"
+			]
+		},
+		{
+			"name": "React",
+			"level": "Avanzado",
+			"keywords": [
+				"Desarrollo Web",
+				"Frontend",
+				"JavaScript Library",
+				"UI"
+			]
+		},
+		{
+			"name": "Graphql",
+			"level": "Avanzado",
+			"keywords": [
+				"Desarrollo Web",
+				"Frontend",
+				"JavaScript Library",
+				"UI"
+			]
+		},
+		{
+			"name": "Boostrap",
+			"level": "Avanzado",
+			"keywords": [
+				"Desarrollo Web",
+				"Frontend",
+				"JavaScript Library",
+				"UI"
+			]
+		}
+	],
+	"languages": [
+		{
+			"language": "Spanish",
+			"fluency": "Native speaker"
+		},
+		{
+			"language": "English",
+			"fluency": "Advanced"
+		}
+	],
+	"interests": [
+		{
+			"name": "Wildlife",
+			"keywords": [
+				"Ferrets",
+				"Unicorns"
+			]
+		}
+	],
+	"references": [
+		{
+			"name": "Jane Doe",
+			"reference": "Reference…"
+		}
+	],
+	"projects": [
+		{
+			"name": "Micrositios SESAET",
+			"isActive": true,
+			"description": "Una plataforma administrable en donde los entes públicos del estado de Tlaxcala registran información de carácter público sobre su código de ética y datos de contacto",
+			"highlights": [
+				"Angular Js",
+				"Nest Js",
+				"MongoDB",
+				"Docker",
+				"GraphQL"
+			],
+			"github":"#"
+			,
+			"url": "https://oic.saetlax.org/"
+		},
+		{
+			"name": "Plataforma Digital Estatal",
+			"isActive": true,
+			"description": "Registro de declaraciones patrimoniales de los servidores públicos del estado de Tlaxcala",
+			"highlights": [
+				"Spring Boot con Maven",
+				"JavaScript",
+				"PostgreSql",
+				"Apache Tomcat"
+			],
+			"github":"#",
+			"url": "https://pde.saetlax.org/"
+		},
+		{
+			"name": "Gestor de correos ",
+			"isActive": true,
+			"description": "Se configura una cuenta de contacto, para el envió y recepción de correos, una vez recibido el correo entra a una base de datos, donde se genera un ticket el cual se asigna automáticamente a un agente,  Esta aplicación fue desarrollada para Amatech S.A. de C.V. y es privada. ",
+			"highlights": [
+				"C# .NET",
+				"SQL Server",
+				"Bootstrap",
+				"CSS"
+			],
+			"github":"#"
+			,
+			"url": "https://www.amatech.com.mx/"
+		}
+	]
 }
