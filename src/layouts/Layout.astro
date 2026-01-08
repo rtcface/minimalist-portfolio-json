@@ -3,15 +3,29 @@ import { basics } from "@cv"
 
 interface Props {
   title: string
+  details?: {
+    image: string
+    summary: string
+    url: string
+  }
+  language?: string
 }
 
-const { title } = Astro.props
+const { title, details, language = "es" } = Astro.props
 
-const { image, summary, url } = basics
+const { image, summary, url } = details || {
+  image: "/me.webp",
+  summary: "Portfolio",
+  url: "https://midu.dev",
+}
+
+const nextLanguage = language === "es" ? "en" : "es"
+const nextLanguageLabel = language === "es" ? "EN" : "ES"
+const nextUrl = language === "es" ? "/en" : "/"
 ---
 
 <!doctype html>
-<html lang="es">
+<html lang={language}>
   <head>
     <meta charset="UTF-8" />
     <title>{title}</title>
@@ -34,11 +48,34 @@ const { image, summary, url } = basics
     <meta name="twitter:image" content="" />
   </head>
   <body>
+    <div class="language-switch no-print">
+      <a href={nextUrl}>{nextLanguageLabel}</a>
+    </div>
     <slot />
   </body>
 </html>
 
 <style is:global>
+  .language-switch {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+  }
+  
+  .language-switch a {
+    text-decoration: none;
+    color: #000;
+    background: #eee;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background 0.3s;
+  }
+  
+  .language-switch a:hover {
+    background: #ddd;
+  }
+
   html {
     font-family:
       Menlo,

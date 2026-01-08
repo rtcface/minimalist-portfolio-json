@@ -9,11 +9,11 @@ import Projects from "@/components/sections/Projects.astro"
 import Skills from "@/components/sections/Skills.astro"
 import KeyboardManager from "@/components/KeyboardManager.astro"
 
-import { basics, work, education, projects, skills } from "@cv"
+import { basics, work, education, projects, skills } from "../../../cv_english.json"
 const { name, label, summary, location, profiles, phone, email } = basics
 ---
 
-<Layout title={`Portafolio de ${name} - ${label}`}>
+<Layout title={`Portfolio of ${name} - ${label}`} language="en">
   <main>
     <Hero
       name={name}
