@@ -13,7 +13,11 @@ interface Props {
   label: string
   image: string
   location: any
-  profiles: any
+  profiles: Array<{
+    network: string
+    url: string
+    username: string
+  }>
   phone: string
   email: string
 }
@@ -71,7 +75,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
           )
         }
         {
-          profiles.map(({ network, url, username }) => {
+          profiles.map(({ network, url }) => {
             const Icon = SOCIAL_ICONS[network]
 
             return (
